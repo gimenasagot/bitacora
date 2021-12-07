@@ -1,8 +1,7 @@
-# bitacora-
-sistemas operativos
-# Bitacora-de-Comandos
+Comandos vistos en la clase Sistemas Operativos 
 
-# Comandos Sistemas Operativos
+# Bitácora de Comandos
+
 
 | Comando | Descripción |
 |--- | ---|
@@ -34,24 +33,21 @@ sistemas operativos
 |**`clear`** | Limpia todo el texto que aparezca en la consola
 |**`sudo apt update`** | Descarga informacion de paquetes instalados
 |**`sudo apt upgrade`** | Actualiza todos los paquetes instalados
-|**`git clone`** | Clona un repositorio de github
 |**`curl`** | Interactua con paginas web
 |**`head`** | Imprime primeras lineas de un archivo
 |**`tail`** | Imprime ultimas lineas de un archivo
 |**`less`** | Muestra un archivo por líneas
-|**`docker commit -m -a`** | Hace un commit a dockerhub
 |**`docker push`** | Pushea a la cuenta de docker hub
+|**`git clone`** | Clona un repositorio de github
 |**`docker pull`** | Trae de docker hub
 |**`more`** | Muestra un archivo por lineas
 |**`history`** | Enseña el historial de comandos
-|**`history | grep curl`** | Enseña el historial de comandos especificos
 |**`reboot`** | Reinicia el sistema
 |**`i`** | Shortcut para instalar 
-|**`rm -Rf`** | Remueve un directorio de manera forzada
-|**`scp`** | Transfiere archivos via ssh
 |**`shutdown`** | Apaga el sistema
 |**`whoami`** | Muestra el usuario actual
 |**`docker info`** | Enseña informacion del sistema
+|**`wc`** | Cuenta cantidad de lineas
 |**`docker ps`** | Muestra los contenedores
 |**`pdfunite`** | Une pdfs
 |**`pdfseparate`** | Separa pdfs
@@ -66,11 +62,9 @@ sistemas operativos
 |**`cmatrix`** | Muestra la matrix en terminal
 |**`docker run`** | Abre una imagen como contenedor
 |**`docker run -ti`** | Crea una terminal interactiva
-|**`docker run --rm`** | Elimina un contenedor
 |**`sudo apt install cmatrix`** | Es un comando el cual instala una extensión para la consola, la cual consiste en verse como la matrix 
-|**`wc`** | Cuenta cantidad de lineas
 |**`wc -w`** | Cuenta cantidad de palabras
-|**`wc -m`** | Cuenta cantidad de caracteres
+
 
 
 

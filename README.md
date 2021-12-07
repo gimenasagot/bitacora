@@ -64,7 +64,7 @@ Comandos vistos en la clase Sistemas Operativos
 |**`docker run -ti`** | Crea una terminal interactiva
 |**`sudo apt install cmatrix`** | Es un comando el cual instala una extensión para la consola, la cual consiste en verse como la matrix 
 |**`wc -w`** | Cuenta cantidad de palabras
-
+|**`docker run --rm`** | Elimina un contenedor
 
 
 
